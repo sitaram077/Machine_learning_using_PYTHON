@@ -17,3 +17,4 @@ Contributing: If you find this repository helpful, feel free to contribute your 
 
 I hope this serves as a starting point for your exploration of the fascinating world of Machine Learning!
 
+The data set I've used in the explorator data analysis is the used cars dataset y Jeffery Schlimmer.
